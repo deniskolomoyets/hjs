@@ -15,5 +15,16 @@
   "bugs": {
     "url": "https://github.com/deniskolomoyets/hjs/issues"
   },
-  "homepage": "https://github.com/deniskolomoyets/hjs#readme"
+  "homepage": "https://github.com/deniskolomoyets/hjs#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "type": "module",
+  "devDependencies": {
+    "eslint": "^8.18.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.26.0",
+    "jest": "^28.1.1",
+    "prettier": "^2.7.1"
+  }
 }
